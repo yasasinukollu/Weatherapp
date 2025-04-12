@@ -1,0 +1,2 @@
+0 0 * * * /usr/local/bin/python /app/src/run.py >> /var/log/cron.log 2>&1
+#Executes at midnight every day
