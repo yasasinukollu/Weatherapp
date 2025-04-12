@@ -134,7 +134,7 @@ To launch the dashboard locally:
 cd bokeh
 bokeh serve --show bokeh/visualizer.py
 ```
-![img_1.png](img_1.png)
+![img_3.png](img_3.png)
 
 ## 🙌 Acknowledgments
 
